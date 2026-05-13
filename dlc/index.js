@@ -28,4 +28,12 @@
             { "title": "Chilli ", "action": [75,0,4,4] }
         ]
     }
-]
+         ]
+    },
+    {
+        "file": "static glitch.dlc", 
+        "title": "static glitch",
+        "buttons": [
+            { "title": "static glitch", "action": [33,0,0,200] }
+        ]
+    }
